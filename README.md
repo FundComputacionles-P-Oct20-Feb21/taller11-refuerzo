@@ -34,3 +34,6 @@ Cuando se ejecuta una prueba de escritorio manual se debera obtener la siguiente
 
 * Usar el archivo denominado **problematica.txt**
 * Subir una imagen o archivo de la ejecución de la **prueba de escritorio** de la problemática.
+
+El ejemplo fue tomado y personalizado del libro: [1] Mancilla, A., Ebratt, R. y Capacho, J. (2014). Diseño y construcción de
+algoritmos. Barranquilla Universidad del Norte.
