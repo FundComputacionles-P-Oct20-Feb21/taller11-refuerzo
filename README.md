@@ -33,4 +33,4 @@ Cuando se ejecuta una prueba de escritorio manual se debera obtener la siguiente
 **Finalmente de usar de manera obligatoria dos funciones a parte de la función principal. Ejemplo, se puede crear un función que calcule el residulo para MOD 10.**
 
 * Usar el archivo denominado **problematica.txt**
-* subir una imagen o archivo de la ejecución de la prueba de escritorio de la problemática.
+* Subir una imagen o archivo de la ejecución de la **prueba de escritorio** de la problemática.
